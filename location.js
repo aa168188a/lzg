@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://letsvpn-cn.org/';
+    window['location'] = 'https://kl.letsvp.icu/';
 })();
